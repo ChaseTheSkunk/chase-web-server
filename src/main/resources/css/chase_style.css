@@ -1,0 +1,9 @@
+.circular-image {
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+}
+
+.white-text {
+    color: #F8F8F8;
+}
