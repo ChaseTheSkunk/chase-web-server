@@ -3,7 +3,7 @@ body, html {
 }
 
 #header {
-    background: #FF7921;
+    background: rgb(255, 121, 33);
     height: 150px;
     border-bottom: 2px white groove;
     min-width: 960px;
@@ -35,7 +35,7 @@ body, html {
 }
 
 #header-links ul {
-    background: #F8F8F8;
+    background: rgb(248, 248, 248);
     list-style: none;
     margin: 0;
     padding: 8px;
@@ -69,11 +69,11 @@ body, html {
 }
 
 #navigation ul li a {
-    color: #F8F8F8;
+    color: rgb(248, 248, 248);
 }
 
 #navigation ul li a:hover {
-    background-color: #A25C06;
+    background-color: rgb(162, 92, 6);
 }
 
 #navigation ul li .nav-button {
@@ -88,7 +88,7 @@ body, html {
 
 #navigation ul li .selected {
     background-color: rgb(255, 162, 100);
-    color: #A25C06;
+    color: rgb(162, 92, 6);
 }
 
 #main-body {
@@ -120,12 +120,12 @@ body, html {
     width: 100%;
     border-top: 2px white ridge;
     min-width: 960px;
-    background: #A25C06;
-    color: #F8F8F8;
+    background: rgb(162, 92, 6);
+    color: rgb(248, 248, 248);
 }
 
 #footer a {
-    color: #F8F8F8;
+    color: rgb(248, 248, 248);
 }
 
 #footer a:hover {
