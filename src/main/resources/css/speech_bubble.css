@@ -5,6 +5,42 @@ This stylesheet is based on PURE CSS SPEECH BUBBLES by Nicolas Gallagher
   - http://twitter.com/necolas
 --------------------------------------------------------------------- */
 
+.speech-bubble {
+    font-size: 32px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0 20px;
+    margin: 20px;
+    background: rgb(255, 255, 255);
+    border: 2px solid rgb(51, 51, 51);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+
+.speech-bubble:before {
+    content: "";
+    position: relative;
+    bottom: -75px;
+    left: 430px;
+    border-width: 20px 20px 0;
+    border-style: solid;
+    border-color: #333 transparent;
+    display: block;
+    width: 0;
+}
+
+.speech-bubble:after {
+    content: "";
+    position: relative;
+    bottom: -17px;
+    left: 432px;
+    border-width: 18px 18px 0;
+    border-style: solid;
+    border-color: #fff transparent;
+    display: block;
+    width: 0;
+}
+
 .triangle-isosceles {
     position: relative;
     padding: 15px;
