@@ -92,9 +92,6 @@ body, html {
 }
 
 #main-body {
-    position: absolute;
-    top: 152px;
-    bottom: 82px;
     min-width: 960px;
     width: 100%;
     z-index: -1;
@@ -110,12 +107,10 @@ body, html {
 #content {
     min-width: 800px;
     margin: 0 160px;
-    padding: 8px 16px;
+    padding: 4px 0;
 }
 
 #footer {
-    position: absolute;
-    bottom: 0;
     height: 80px;
     width: 100%;
     border-top: 2px white ridge;
