@@ -25,23 +25,86 @@ body, html {
     top: 20px;
     font-size: 60px;
     font-family: 'Lobster', cursive;
-    min-width: 400px;
+    min-width: 402px;
+}
+
+#header-links {
+    float: right;
+    margin: 25px 5% 0 0;
+    border: 8px solid rgba(149, 210, 255, 0.5);
+}
+
+#header-links ul {
+    background: #F8F8F8;
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+}
+
+#header-links ul li {
+    display: inline;
+}
+
+#header-links ul li a img {
+    height: 30px;
+}
+
+#navigation {
+    position: absolute;
+    top: 110px;
+    left: 220px;
+    right: 5%;
+    min-width: 690px;
+    text-align: right;
+}
+
+#navigation ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation ul li {
+    display: inline;
+}
+
+#navigation ul li a {
+    color: #F8F8F8;
+}
+
+#navigation ul li a:hover {
+    background-color: #A25C06;
+}
+
+#navigation ul li .nav-button {
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    padding: 4px 5%;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+
+#navigation ul li .selected {
+    background-color: rgb(255, 162, 100);
+    color: #A25C06;
 }
 
 #main-body {
     position: absolute;
     top: 152px;
-    bottom: 62px;
+    bottom: 82px;
+    min-width: 960px;
     width: 100%;
     z-index: -1;
+    background: url("../img/background/shirt-bg.jpg") repeat;
 }
 
 #sidebar {
     position: absolute;
     left: 0;
     min-width: 160px;
-    border: 2px solid;
-    min-height: 50px;
 }
 
 #content {
@@ -53,9 +116,43 @@ body, html {
 #footer {
     position: absolute;
     bottom: 0;
-    height: 60px;
+    height: 80px;
     width: 100%;
-    background: #A25C06;
     border-top: 2px white ridge;
     min-width: 960px;
+    background: #A25C06;
+    color: #F8F8F8;
+}
+
+#footer a {
+    color: #F8F8F8;
+}
+
+#footer a:hover {
+    color: rgb(255, 193, 150);
+}
+
+#footer-credits {
+    float: left;
+    margin: 12px 60px;
+}
+
+#footer-navigation {
+    float: right;
+    margin: 32px 60px 0;
+}
+
+#footer-navigation ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#footer-navigation ul li {
+    display: inline;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#footer-navigation ul li a {
+    text-decoration: none;
 }
