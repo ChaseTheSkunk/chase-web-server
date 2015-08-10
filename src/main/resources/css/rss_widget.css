@@ -1,0 +1,19 @@
+#widgetmain {
+    text-align: left;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#widgetbottom {
+    text-align: right;
+    margin-bottom: 0;
+}
+
+#rssOutput {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 420px;
+    font-family: sans-serif;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Chase the Skunk Website Updates</title>
+        <link>http://www.chasetheskunk.com/</link>
+        <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
+
+        <item>
+            <title>Update 8/9/15</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>Unique ID for content. Copy the URL again</guid>
+            <pubDate>Mon, 10 Aug 2015 12:05:00 GMT</pubDate>
+            <description>RSS Test. I have created my own RSS feed!</description>
+        </item>
+
+    </channel>
+</rss>
