@@ -4,6 +4,16 @@
     font-weight: bold;
 }
 
+.content-header {
+     text-align: center;
+     display: block;
+     margin: 8px;
+}
+
+.content-text {
+    text-align: center;
+}
+
 .chase-full {
     background-size: 250px;
     background-image: url("../img/chase_full.png");
