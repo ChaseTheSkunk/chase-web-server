@@ -20,9 +20,14 @@
 }
 
 /** Twitch Widget **/
-.twitch-badge {
+.badge {
     border: none;
     height: 4em;
     margin: 20px auto;
     display: block;
+}
+
+/** Picarto Badge **/
+.center {
+    text-align: center;
 }
