@@ -22,3 +22,21 @@
     background-position-x: 97%;
     background-position-y: 120px;
 }
+
+.character-info {
+    margin: 0 20px;
+    min-height: 250px;
+}
+
+.character-image {
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin: 10px 0;
+    float: right;
+}
+
+.chase {
+    background-image: url(../img/chase_full.png);
+    width: 260px;
+}

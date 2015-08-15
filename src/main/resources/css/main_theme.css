@@ -92,6 +92,10 @@ body, html {
     color: rgb(162, 92, 6);
 }
 
+#navigation ul li .selected:hover {
+    background-color: rgb(255, 162, 100);
+}
+
 #main-body {
     min-width: 960px;
     width: 100%;
