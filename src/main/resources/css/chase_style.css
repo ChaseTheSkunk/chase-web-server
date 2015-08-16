@@ -40,3 +40,9 @@
     background-image: url(../img/chase_full.png);
     width: 260px;
 }
+
+.ruby {
+    background-image: url(../img/ruby_full.png);
+    height: 280px;
+    width: 250px;
+}
