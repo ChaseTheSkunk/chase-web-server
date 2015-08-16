@@ -6,7 +6,6 @@ body, html {
 #header {
     background: rgb(255, 121, 33);
     height: 150px;
-    border-bottom: 2px white groove;
     min-width: 960px;
 }
 
@@ -103,16 +102,35 @@ body, html {
     background: url("../img/background/shirt-bg.jpg") repeat;
 }
 
+#content-organizer {
+    display: table;
+    min-width: 960px;
+    margin-right: 160px;
+}
+
 #sidebar {
-    position: absolute;
-    left: 0;
-    min-width: 160px;
+    display: table-cell;
+    vertical-align: top;
+    width: 160px;
+}
+
+#sidebar.active {
+    background: url(../img/background/sidebar-background.png) repeat-y;
+}
+
+#sub-navigation {
+    padding: 50px 0;
+    width: 100%;
+}
+
+#sub-navigation ul {
+    margin: 0;
 }
 
 #content {
     min-width: 800px;
-    margin: 0 160px;
     padding: 4px 0;
+    display: table-cell;
 }
 
 #content div.divider {
@@ -147,12 +165,12 @@ body, html {
 
 #footer-credits {
     float: left;
-    margin: 12px 60px;
+    margin: 12px 50px;
 }
 
 #footer-navigation {
     float: right;
-    margin: 32px 60px 0;
+    margin: 32px 50px 0;
 }
 
 #footer-navigation ul {
