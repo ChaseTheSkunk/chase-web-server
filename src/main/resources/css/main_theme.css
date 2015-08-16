@@ -120,11 +120,35 @@ body, html {
 
 #sub-navigation {
     padding: 50px 0;
-    width: 100%;
+    width: 150px;
 }
 
 #sub-navigation ul {
-    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+#sub-navigation ul li {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+#sub-navigation ul li a {
+    color: rgb(248, 248, 248);
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 6px 0;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    width: 140px;
+}
+
+#sub-navigation ul li a:hover {
+    background-color: rgb(162, 92, 6);
 }
 
 #content {
