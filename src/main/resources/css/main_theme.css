@@ -102,20 +102,15 @@ body, html {
     background: url("../img/background/shirt-bg.jpg") repeat;
 }
 
-#content-organizer {
-    display: table;
-    min-width: 960px;
-    margin-right: 160px;
-}
-
 #sidebar {
-    display: table-cell;
+    float: left;
     vertical-align: top;
-    width: 160px;
+    width: 150px;
 }
 
 #sidebar.active {
-    background: url(../img/background/sidebar-background.png) repeat-y;
+    background: #FF7921;
+    border-right: 2px white groove;
 }
 
 #sub-navigation {
@@ -154,7 +149,7 @@ body, html {
 #content {
     min-width: 800px;
     padding: 4px 0;
-    display: table-cell;
+    margin: 0 160px;
 }
 
 #content div.divider {
