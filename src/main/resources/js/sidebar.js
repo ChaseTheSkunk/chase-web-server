@@ -11,21 +11,13 @@ var Sidebar = function(values, id) {
 
     var element = (id == null) ? $('#sidebar') : $('#' + id);
 
-    var matchSize = function(x) {
-        var height = 0;
-        if ($.isNumeric(x)) {
-            height = 0 + x;
-        } else if (typeof x === "string") {
-            height = $('#' + x).innerHeight();
-        } else {
-            try {
-                height = x.innerHeight();
-            } catch (ignored) {
-                height = "100%";
-            }
+    var matchContainerSize = function() {
+        var containerHeight = element.parent().height();
+        if (containerHeight <= 0) {
+            containerHeight = "100%";
         }
 
-        element.height(height);
+        element.height(containerHeight);
     };
 
     var arrangeLinks = function() {
@@ -49,7 +41,7 @@ var Sidebar = function(values, id) {
     };
 
     return {
-        matchSize: matchSize,
+        matchContainerSize: matchContainerSize,
         arrangeLinks: arrangeLinks
     }
 };

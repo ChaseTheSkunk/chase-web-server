@@ -16,6 +16,6 @@ $(document).ready(function() {
         }
     ]);
 
-    characterSidebar.matchSize("content");
+    characterSidebar.matchContainerSize();
     characterSidebar.arrangeLinks();
 });
