@@ -28,6 +28,33 @@
     min-height: 250px;
 }
 
+.headline {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.character-lineup {
+    margin: 20px;
+}
+
+.character-lineup div {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.character-lineup div a:hover {
+    font-weight: bold;
+}
+
+.character-lineup div a img {
+    height: 220px;
+    display: block;
+    margin-bottom: 12px;
+}
+
+/** Character page image styles */
 .character-image {
     background-size: 250px;
     background-repeat: no-repeat;
