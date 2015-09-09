@@ -64,6 +64,19 @@
     padding-right: 6px;
 }
 
+.block-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.width-60-percent {
+    width: 60%;
+}
+
+.world-content {
+    padding: 12px 20px;
+}
+
 /** Character page image styles */
 .character-image {
     background-size: 250px;
