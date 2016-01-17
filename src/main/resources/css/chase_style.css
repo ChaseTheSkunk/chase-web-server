@@ -86,6 +86,14 @@
     float: right;
 }
 
+.character-image-left {
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin: 10px 0;
+    float: left;
+}
+
 .chase {
     background-image: url(../img/chase_full.png);
     width: 260px;
@@ -95,4 +103,18 @@
     background-image: url(../img/ruby_full.png);
     height: 280px;
     width: 250px;
+}
+
+.katrina {
+    background-image: url(../img/katrina_full.png);
+    background-size: 200px;
+    height: 260px;
+    width: 200px;
+}
+
+.katrina2 {
+    background-image: url(../img/katrina_full_cloaked.png);
+    background-size: 180px;
+    height: 260px;
+    width: 200px;
 }

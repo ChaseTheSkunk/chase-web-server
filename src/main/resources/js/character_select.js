@@ -13,6 +13,11 @@ $(document).ready(function() {
             type: "link",
             href: "ruby.html",
             text: "Ruby"
+        },
+        {
+            type: "link",
+            href: "katrina.html",
+            text: "Katrina"
         }
     ]);
 
