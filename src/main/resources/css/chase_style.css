@@ -101,8 +101,16 @@
 
 .ruby {
     background-image: url(../img/ruby_full.png);
+    background-size: 220px;
     height: 280px;
-    width: 250px;
+    width: 240px;
+}
+
+.ruby2 {
+    background-image: url(../img/ruby_full_adventurer.png);
+    background-size: 210px;
+    height: 260px;
+    width: 240px;
 }
 
 .katrina {
