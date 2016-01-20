@@ -126,3 +126,15 @@
     height: 260px;
     width: 200px;
 }
+
+.chase-magic-image {
+    background-size: 200px;
+    background-repeat: no-repeat;
+    height: 200px;
+    margin: 10px 0 10px 40px;
+    float: right;
+}
+
+.chase-magic-text {
+    height: 200px;
+}
