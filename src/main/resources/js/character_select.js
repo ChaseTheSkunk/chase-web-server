@@ -16,6 +16,11 @@ $(document).ready(function() {
         },
         {
             type: "link",
+            href: "malichi.html",
+            text: "Malichi"
+        },
+        {
+            type: "link",
             href: "katrina.html",
             text: "Katrina"
         }

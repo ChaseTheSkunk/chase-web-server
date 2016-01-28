@@ -127,6 +127,20 @@
     width: 200px;
 }
 
+.malichi {
+    background-image: url(../img/malichi_full.png);
+    background-size: 200px;
+    height: 210px;
+    width: 200px;
+}
+
+.malichi2 {
+    background-image: url(../img/malichi_full_gentleman.png);
+    background-size: 180px;
+    height: 220px;
+    width: 200px;
+}
+
 .chase-magic-image {
     background-size: 200px;
     background-repeat: no-repeat;
