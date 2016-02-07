@@ -106,6 +106,13 @@
     width: 220px;
 }
 
+.chase-pendant {
+    background-image: url(../img/chase_tf_pendant.png);
+    background-size: 220px;
+    height: 220px;
+    width: 220px;
+}
+
 .chase-chimera {
     background-image: url(../img/chase_chimera.png);
     background-size: 220px;
