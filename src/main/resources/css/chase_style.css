@@ -120,6 +120,13 @@
     width: 220px;
 }
 
+.chase-pup {
+    background-image: url(../img/chase_pup.png);
+    background-size: 220px;
+    height: 220px;
+    width: 220px;
+}
+
 .ruby {
     background-image: url(../img/ruby_full.png);
     background-size: 220px;
