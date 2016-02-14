@@ -113,6 +113,20 @@
     width: 220px;
 }
 
+.chase-surprise-tf {
+    background-image: url(../img/chase_surprise_tf.png);
+    background-size: 220px;
+    height: 220px;
+    width: 220px;
+}
+
+.chase-runed {
+    background-image: url(../img/chase_runed.png);
+    background-size: 220px;
+    height: 220px;
+    width: 220px;
+}
+
 .chase-chimera {
     background-image: url(../img/chase_chimera.png);
     background-size: 220px;
