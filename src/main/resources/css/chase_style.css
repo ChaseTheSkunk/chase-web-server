@@ -183,6 +183,13 @@
     width: 200px;
 }
 
+.pyrrhe {
+    background-image: url(../img/pyrrhe_full.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .chase-magic-image {
     background-size: 200px;
     background-repeat: no-repeat;
@@ -192,5 +199,27 @@
 }
 
 .chase-magic-text {
+    height: 200px;
+}
+
+.races-image {
+    background-size: 160px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 180px;
+    margin: 10px 0 10px 40px;
+    float: right;
+}
+
+.races-image-wide {
+    background-size: 200px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    margin: 10px 0 10px 30px;
+    float: right;
+}
+
+.races-text {
     height: 200px;
 }
