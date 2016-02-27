@@ -202,6 +202,20 @@
     height: 200px;
 }
 
+.humbaba {
+    background-image: url(../img/humbaba.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.aimian {
+    background-image: url(../img/aimian.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .races-image {
     background-size: 160px;
     background-repeat: no-repeat;
