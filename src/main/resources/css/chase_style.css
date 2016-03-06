@@ -69,6 +69,11 @@
     margin: 0 auto;
 }
 
+.element-image {
+    height: 24px;
+    vertical-align: middle;
+}
+
 .width-60-percent {
     width: 60%;
 }
