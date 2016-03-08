@@ -74,6 +74,11 @@
     vertical-align: middle;
 }
 
+.map-image {
+    width: 48%;
+    display: inline-block;
+}
+
 .width-60-percent {
     width: 60%;
 }
