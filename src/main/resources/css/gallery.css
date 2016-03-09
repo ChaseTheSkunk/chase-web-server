@@ -1,0 +1,15 @@
+.gallery {
+    border: 2px black inset;
+    width: 80%;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+.gallery tr, .gallery td {
+    border: 1px black solid;
+}
+
+.thumbnail {
+    max-height: 200px;
+    min-width: 60%;
+}
