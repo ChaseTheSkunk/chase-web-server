@@ -6,6 +6,25 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>Magic Classes Catalog</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>classes-catalog-march-20</guid>
+            <pubDate>Sun, 20 Mar 2016 13:24:00 GMT</pubDate>
+            <description>
+                Added a new page detailing various magic classes, including a few new ones.
+            </description>
+        </item>
+        <item>
+            <title>New Bestiary Entry: Cait Sith</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>cait-sith-march-18</guid>
+            <pubDate>Sat, 19 Mar 2016 3:40:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Cait Sith species. Also fixed a
+                couple of errors.
+            </description>
+        </item>
+        <item>
             <title>Site is Live!</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>site-is-live-march-10</guid>
