@@ -265,6 +265,14 @@
     float: right;
 }
 
+/** Other **/
+
+.character-pic {
+    height: 250px;
+    margin: 20px auto;
+    display: block;
+}
+
 .races-text {
     height: 200px;
 }

@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>Transformation Polls</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>tf-polls-april-21</guid>
+            <pubDate>Fri, 22 Apr 2016 02:10:00 GMT</pubDate>
+            <description>
+                Added a new page with various transformation-based Twitter polls.
+            </description>
+        </item>
+        <item>
             <title>Magic Classes Catalog</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>classes-catalog-march-20</guid>
