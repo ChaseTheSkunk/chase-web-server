@@ -6,6 +6,16 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>Meet Snow the Polar Skunk!</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>meet-snow-april-28</guid>
+            <pubDate>Fri, 29 Apr 2016 02:20:00 GMT</pubDate>
+            <description>
+                Added a new character page for Snow Flocke the polar skunk.
+                http://chasetheskunk.com/characters/snow.html
+            </description>
+        </item>
+        <item>
             <title>Casarok Creation Myth</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>creation-myth-april-24</guid>

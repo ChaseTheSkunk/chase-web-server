@@ -211,6 +211,13 @@
     width: 200px;
 }
 
+.snow2 {
+    background-image: url(../img/snow_handstand.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .chase-magic-image {
     background-size: 200px;
     background-repeat: no-repeat;

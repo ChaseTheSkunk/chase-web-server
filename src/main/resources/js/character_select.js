@@ -23,6 +23,11 @@ $(document).ready(function() {
             type: "link",
             href: "katrina.html",
             text: "Katrina"
+        },
+        {
+            type: "link",
+            href: "snow.html",
+            text: "Snow"
         }
     ]);
 
