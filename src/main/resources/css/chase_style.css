@@ -244,6 +244,13 @@
     width: 200px;
 }
 
+.taerundrin {
+    background-image: url(../img/taerundrin.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .aimian {
     background-image: url(../img/aimian.png);
     background-size: 200px;

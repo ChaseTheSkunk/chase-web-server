@@ -6,6 +6,16 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Taerundrin</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>taerundrin-may-21</guid>
+            <pubDate>Sun, 22 May 2016 01:10:00 GMT</pubDate>
+            <description>
+                Added a new bestiary entry for the monsters known as Taerundrin
+                http://chasetheskunk.com/world/bestiary/taerundrin.html
+            </description>
+        </item>
+        <item>
             <title>Meet Snow the Polar Skunk!</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>meet-snow-april-28</guid>
