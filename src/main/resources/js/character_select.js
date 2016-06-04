@@ -28,6 +28,11 @@ $(document).ready(function() {
             type: "link",
             href: "snow.html",
             text: "Snow"
+        },
+        {
+            type: "link",
+            href: "preston.html",
+            text: "Preston"
         }
     ]);
 

@@ -6,6 +6,16 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>Meet Preston the Wolf</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>preston-june-4</guid>
+            <pubDate>Sat, 4 June 2016 20:00:00 GMT</pubDate>
+            <description>
+                Added a new character page for Preston D. G. Tatum the red wolf.
+                http://chasetheskunk.com/characters/preston.html
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Taerundrin</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>taerundrin-may-21</guid>
