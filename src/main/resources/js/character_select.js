@@ -33,6 +33,11 @@ $(document).ready(function() {
             type: "link",
             href: "preston.html",
             text: "Preston"
+        },
+        {
+            type: "link",
+            href: "vick.html",
+            text: "Vick"
         }
     ]);
 

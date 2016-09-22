@@ -6,6 +6,16 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>Meet Vick the Vulture</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>vick-september-21</guid>
+            <pubDate>Thu, 22 Sep 2016 03:00:00 GMT</pubDate>
+            <description>
+                Added a new character page for Vick Grasley the turkey vulture.
+                http://chasetheskunk.com/characters/vick.html
+            </description>
+        </item>
+        <item>
             <title>Meet Preston the Wolf</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>preston-june-4</guid>

@@ -232,6 +232,20 @@
     width: 200px;
 }
 
+.vick {
+    background-image: url(../img/vick_full.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.vick2 {
+    background-image: url(../img/vick_walking.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .chase-magic-image {
     background-size: 200px;
     background-repeat: no-repeat;
