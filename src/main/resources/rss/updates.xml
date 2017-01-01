@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Drekaldr</title>
+            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
+            <guid>drekaldr-january-1</guid>
+            <pubDate>Sun, 1 Jan 2017 6:44:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Drekaldr species.
+            </description>
+        </item>
+        <item>
             <title>Meet Vick the Vulture</title>
             <link>http://www.chasetheskunk.com/rss/updates.xml</link>
             <guid>vick-september-21</guid>

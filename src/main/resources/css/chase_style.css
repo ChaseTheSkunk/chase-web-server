@@ -293,6 +293,13 @@
     width: 200px;
 }
 
+.drekaldr {
+    background-image: url(../img/drekaldr.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .races-image {
     background-size: 160px;
     background-repeat: no-repeat;
