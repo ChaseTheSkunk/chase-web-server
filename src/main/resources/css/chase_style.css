@@ -300,6 +300,13 @@
     width: 200px;
 }
 
+.belaro {
+    background-image: url(../img/belaro.png);
+    background-size: 200px;
+    height: 200px;
+    width: 200px;
+}
+
 .races-image {
     background-size: 160px;
     background-repeat: no-repeat;
