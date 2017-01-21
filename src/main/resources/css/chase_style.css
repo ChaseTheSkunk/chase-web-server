@@ -36,6 +36,7 @@
 
 .character-lineup {
     margin: 20px;
+    text-align: center;
 }
 
 .character-lineup div {
@@ -95,7 +96,7 @@
 .character-image {
     background-size: 250px;
     background-repeat: no-repeat;
-    height: 250px;
+    height: 200px;
     margin: 10px 0;
     float: right;
 }
@@ -103,19 +104,21 @@
 .character-image-left {
     background-size: 250px;
     background-repeat: no-repeat;
-    height: 250px;
+    height: 200px;
     margin: 10px 0;
     float: left;
 }
 
+.character {
+    height: 200px;
+    width: 200px;
+}
+
 .chase {
-    background-image: url(../img/chase_full.png);
     width: 260px;
 }
 
 .chase2 {
-    background-image: url(../img/chase_magic_zap.png);
-    background-size: 220px;
     height: 220px;
     width: 220px;
 }
@@ -156,77 +159,34 @@
 }
 
 .ruby {
-    background-image: url(../img/ruby_full.png);
-    background-size: 220px;
     height: 280px;
     width: 240px;
 }
 
 .ruby2 {
-    background-image: url(../img/ruby_full_adventurer.png);
-    background-size: 210px;
     height: 260px;
-    width: 240px;
 }
 
 .katrina {
-    background-image: url(../img/katrina_full.png);
-    background-size: 200px;
     height: 260px;
     width: 200px;
 }
 
 .katrina2 {
-    background-image: url(../img/katrina_full_cloaked.png);
-    background-size: 180px;
     height: 260px;
-    width: 200px;
 }
 
 .malichi {
-    background-image: url(../img/malichi_full.png);
-    background-size: 200px;
     height: 210px;
     width: 200px;
 }
 
 .malichi2 {
-    background-image: url(../img/malichi_full_gentleman.png);
-    background-size: 180px;
     height: 220px;
-    width: 200px;
 }
 
 .pyrrhe {
     background-image: url(../img/pyrrhe_full.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.snow {
-    background-image: url(../img/snow_full.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.snow2 {
-    background-image: url(../img/snow_handstand.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.preston {
-    background-image: url(../img/preston_full.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.preston2 {
-    background-image: url(../img/preston_bowing.png);
     background-size: 200px;
     height: 200px;
     width: 200px;
