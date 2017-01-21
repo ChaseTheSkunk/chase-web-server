@@ -185,27 +185,6 @@
     height: 220px;
 }
 
-.pyrrhe {
-    background-image: url(../img/pyrrhe_full.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.vick {
-    background-image: url(../img/vick_full.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.vick2 {
-    background-image: url(../img/vick_walking.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
 .chase-magic-image {
     background-size: 200px;
     background-repeat: no-repeat;
@@ -216,55 +195,6 @@
 
 .chase-magic-text {
     height: 200px;
-}
-
-.tage {
-    background-image: url(../img/tage.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.humbaba {
-    background-image: url(../img/humbaba.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.taerundrin {
-    background-image: url(../img/taerundrin.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.aimian {
-    background-image: url(../img/aimian.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.wiccan {
-    background-image: url(../img/wiccan.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.drekaldr {
-    background-image: url(../img/drekaldr.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
-}
-
-.belaro {
-    background-image: url(../img/belaro.png);
-    background-size: 200px;
-    height: 200px;
-    width: 200px;
 }
 
 .races-image {
