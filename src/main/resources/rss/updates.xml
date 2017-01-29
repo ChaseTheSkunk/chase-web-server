@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>New Magic Class: Osteomancer</title>
+            <link>http://www.chasetheskunk.com/world/classes/osteomancer.html</link>
+            <guid>osteomancer-january-29</guid>
+            <pubDate>Sun, 29 Jan 2017 17:00:00 GMT</pubDate>
+            <description>
+                Added a new page for the osteomancer magic class.
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Cu Sith</title>
             <link>http://www.chasetheskunk.com/world/bestiary/cu_sith.html</link>
             <guid>cu-sith-january-22</guid>
@@ -80,25 +89,6 @@
             <description>
                 Added a new character page for Snow Flocke the polar skunk.
                 http://chasetheskunk.com/characters/snow.html
-            </description>
-        </item>
-        <item>
-            <title>Casarok Creation Myth</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>creation-myth-april-24</guid>
-            <pubDate>Sun, 24 Apr 2016 02:10:00 GMT</pubDate>
-            <description>
-                Added a new page that details the story behind Casarok's creation.
-                http://chasetheskunk.com/world/myths/myth-of-the-six-sisters.html
-            </description>
-        </item>
-        <item>
-            <title>Transformation Polls</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>tf-polls-april-21</guid>
-            <pubDate>Fri, 22 Apr 2016 02:10:00 GMT</pubDate>
-            <description>
-                Added a new page with various transformation-based Twitter polls.
             </description>
         </item>
 
