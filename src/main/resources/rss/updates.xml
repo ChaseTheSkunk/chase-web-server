@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Draicinne</title>
+            <link>http://www.chasetheskunk.com/world/bestiary/draicinne.html</link>
+            <guid>draicinne-february-12</guid>
+            <pubDate>Sun, 12 Feb 2017 20:00:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Draconic species, Draicinne.
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Alepod</title>
             <link>http://www.chasetheskunk.com/world/bestiary/alepod.html</link>
             <guid>alepod-february-5</guid>
@@ -78,26 +87,6 @@
             <description>
                 Added a new character page for Preston D. G. Tatum the red wolf.
                 http://chasetheskunk.com/characters/preston.html
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Taerundrin</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>taerundrin-may-21</guid>
-            <pubDate>Sun, 22 May 2016 01:10:00 GMT</pubDate>
-            <description>
-                Added a new bestiary entry for the monsters known as Taerundrin
-                http://chasetheskunk.com/world/bestiary/taerundrin.html
-            </description>
-        </item>
-        <item>
-            <title>Meet Snow the Polar Skunk!</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>meet-snow-april-28</guid>
-            <pubDate>Fri, 29 Apr 2016 02:20:00 GMT</pubDate>
-            <description>
-                Added a new character page for Snow Flocke the polar skunk.
-                http://chasetheskunk.com/characters/snow.html
             </description>
         </item>
 
