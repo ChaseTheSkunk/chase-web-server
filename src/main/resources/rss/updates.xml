@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
 
         <item>
+            <title>New Mythology Entry: The SUn and Moon</title>
+            <link>http://www.chasetheskunk.com/world/myths/myth-of-the-sun-and-moon.html</link>
+            <guid>sun-and-moon-february-19</guid>
+            <pubDate>Sun, 19 Feb 2017 19:00:00 GMT</pubDate>
+            <description>
+                Added a new page to Mythology in the World section for the myths of the sun and moon.
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Draicinne</title>
             <link>http://www.chasetheskunk.com/world/bestiary/draicinne.html</link>
             <guid>draicinne-february-12</guid>
@@ -58,35 +67,6 @@
             <description>
                 Added a new page to the Bestiary in the World section for the Belaro species.
                 I also cleaned up the bestiary section and added preview images for each species.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Drekaldr</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>drekaldr-january-1</guid>
-            <pubDate>Sun, 1 Jan 2017 6:44:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Drekaldr species.
-            </description>
-        </item>
-        <item>
-            <title>Meet Vick the Vulture</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>vick-september-21</guid>
-            <pubDate>Thu, 22 Sep 2016 03:00:00 GMT</pubDate>
-            <description>
-                Added a new character page for Vick Grasley the turkey vulture.
-                http://chasetheskunk.com/characters/vick.html
-            </description>
-        </item>
-        <item>
-            <title>Meet Preston the Wolf</title>
-            <link>http://www.chasetheskunk.com/rss/updates.xml</link>
-            <guid>preston-june-4</guid>
-            <pubDate>Sat, 4 June 2016 20:00:00 GMT</pubDate>
-            <description>
-                Added a new character page for Preston D. G. Tatum the red wolf.
-                http://chasetheskunk.com/characters/preston.html
             </description>
         </item>
 
