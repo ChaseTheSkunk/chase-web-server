@@ -1,5 +1,5 @@
 /**
- * Created by Chase the Skunk on 8/23/2015.
+ * Created by Chase the Fox on 8/23/2015.
  */
 
 $(document).ready(function() {

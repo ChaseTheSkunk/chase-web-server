@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Chase the Skunk Website Updates</title>
-        <link>http://www.chasetheskunk.com/</link>
-        <description>Up-to-date additions and changes to Chase the Skunk's website!</description>
+        <title>Chase the Fox Website Updates</title>
+        <link>http://www.chasethefox.com/</link>
+        <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
             <title>New Bestiary Entry: Dašungallu</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/dasungallu.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/dasungallu.html</link>
             <guid>dasungallu-february-26</guid>
             <pubDate>Sun, 26 Feb 2017 18:00:00 GMT</pubDate>
             <description>
@@ -16,7 +16,7 @@
         </item>
         <item>
             <title>New Mythology Entry: The Sun and Moon</title>
-            <link>http://www.chasetheskunk.com/world/myths/myth-of-the-sun-and-moon.html</link>
+            <link>http://www.chasethefox.com/world/myths/myth-of-the-sun-and-moon.html</link>
             <guid>sun-and-moon-february-19</guid>
             <pubDate>Sun, 19 Feb 2017 19:00:00 GMT</pubDate>
             <description>
@@ -25,7 +25,7 @@
         </item>
         <item>
             <title>New Bestiary Entry: Draicinne</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/draicinne.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/draicinne.html</link>
             <guid>draicinne-february-12</guid>
             <pubDate>Sun, 12 Feb 2017 20:00:00 GMT</pubDate>
             <description>
@@ -34,7 +34,7 @@
         </item>
         <item>
             <title>New Bestiary Entry: Alepod</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/alepod.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/alepod.html</link>
             <guid>alepod-february-5</guid>
             <pubDate>Sun, 5 Feb 2017 17:50:00 GMT</pubDate>
             <description>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title>New Magic Class: Osteomancer</title>
-            <link>http://www.chasetheskunk.com/world/classes/osteomancer.html</link>
+            <link>http://www.chasethefox.com/world/classes/osteomancer.html</link>
             <guid>osteomancer-january-29</guid>
             <pubDate>Sun, 29 Jan 2017 17:00:00 GMT</pubDate>
             <description>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title>New Bestiary Entry: Cu Sith</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/cu_sith.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/cu_sith.html</link>
             <guid>cu-sith-january-22</guid>
             <pubDate>Sun, 22 Jan 2017 17:40:00 GMT</pubDate>
             <description>
@@ -61,7 +61,7 @@
         </item>
         <item>
             <title>New Bestiary Entry: Ettette</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/ettette.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/ettette.html</link>
             <guid>ettette-january-15</guid>
             <pubDate>Sun, 15 Jan 2017 8:40:00 GMT</pubDate>
             <description>
@@ -70,7 +70,7 @@
         </item>
         <item>
             <title>New Bestiary Entry: Belaro</title>
-            <link>http://www.chasetheskunk.com/world/bestiary/belaro.html</link>
+            <link>http://www.chasethefox.com/world/bestiary/belaro.html</link>
             <guid>belaro-january-8</guid>
             <pubDate>Sun, 8 Jan 2017 19:00:00 GMT</pubDate>
             <description>
