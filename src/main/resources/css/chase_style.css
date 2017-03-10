@@ -137,6 +137,13 @@
     width: 220px;
 }
 
+.chase-magic-zap {
+    background-image: url(../img/chase_magic_zap.png);
+    background-size: 220px;
+    height: 220px;
+    width: 220px;
+}
+
 .chase-runed {
     background-image: url(../img/chase_runed.png);
     background-size: 220px;
