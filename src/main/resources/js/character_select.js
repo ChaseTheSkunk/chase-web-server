@@ -38,6 +38,11 @@ $(document).ready(function() {
             type: "link",
             href: "vick.html",
             text: "Vick"
+        },
+        {
+            type: "link",
+            href: "lily.html",
+            text: "Lily"
         }
     ]);
 

@@ -6,6 +6,16 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
+            <title>New Character: Lily Spellmeyer</title>
+            <link>http://www.chasethefox.com/characters/lily.html</link>
+            <guid>lily-october-11</guid>
+            <pubDate>Tue, 12 Oct 2017 01:30:00 GMT</pubDate>
+            <description>
+                Added a new page to the Character section for Lily Spellmeyer, the little bunny girl who
+                lives next door to Chase.
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Draklith</title>
             <link>http://www.chasethefox.com/world/bestiary/draklith.html</link>
             <guid>draklith-august-13</guid>
@@ -84,52 +94,6 @@
             <pubDate>Sun, 12 Feb 2017 20:00:00 GMT</pubDate>
             <description>
                 Added a new page to the Bestiary in the World section for the Draconic species, Draicinne.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Alepod</title>
-            <link>http://www.chasethefox.com/world/bestiary/alepod.html</link>
-            <guid>alepod-february-5</guid>
-            <pubDate>Sun, 5 Feb 2017 17:50:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Floradon species, Alepod.
-            </description>
-        </item>
-        <item>
-            <title>New Magic Class: Osteomancer</title>
-            <link>http://www.chasethefox.com/world/classes/osteomancer.html</link>
-            <guid>osteomancer-january-29</guid>
-            <pubDate>Sun, 29 Jan 2017 17:00:00 GMT</pubDate>
-            <description>
-                Added a new page for the osteomancer magic class.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Cu Sith</title>
-            <link>http://www.chasethefox.com/world/bestiary/cu_sith.html</link>
-            <guid>cu-sith-january-22</guid>
-            <pubDate>Sun, 22 Jan 2017 17:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Aspect species Cu Sith.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Ettette</title>
-            <link>http://www.chasethefox.com/world/bestiary/ettette.html</link>
-            <guid>ettette-january-15</guid>
-            <pubDate>Sun, 15 Jan 2017 8:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Ettette feral species.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Belaro</title>
-            <link>http://www.chasethefox.com/world/bestiary/belaro.html</link>
-            <guid>belaro-january-8</guid>
-            <pubDate>Sun, 8 Jan 2017 19:00:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Belaro species.
-                I also cleaned up the bestiary section and added preview images for each species.
             </description>
         </item>
 
