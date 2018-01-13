@@ -75,6 +75,11 @@
     vertical-align: middle;
 }
 
+.magic-element-image {
+    height: 30px;
+    vertical-align: top;
+}
+
 .map-image {
     width: 48%;
     display: inline-block;
@@ -222,6 +227,15 @@
     float: right;
 }
 
+.commission-example-image {
+    background-size: 160px;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 200px;
+    margin: 10px 40px 10px 0;
+    float: left;
+}
+
 /** Other **/
 
 .character-pic {
@@ -232,4 +246,8 @@
 
 .races-text {
     height: 200px;
+}
+
+.commissions-text {
+    height: 160px;
 }
