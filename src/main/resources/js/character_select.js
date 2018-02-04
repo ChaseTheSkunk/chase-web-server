@@ -43,6 +43,11 @@ $(document).ready(function() {
             type: "link",
             href: "lily.html",
             text: "Lily"
+        },
+        {
+            type: "link",
+            href: "cameron.html",
+            text: "Cameron"
         }
     ]);
 
