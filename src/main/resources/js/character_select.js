@@ -48,6 +48,11 @@ $(document).ready(function() {
             type: "link",
             href: "cameron.html",
             text: "Cameron"
+        },
+        {
+            type: "link",
+            href: "jay.html",
+            text: "Jay"
         }
     ]);
 
