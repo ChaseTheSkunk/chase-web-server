@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Garuda</title>
+            <link>http://www.chasethefox.com/world/bestiary/garuda.html</link>
+            <guid>garuda-march-11</guid>
+            <pubDate>Sun, 11 Mar 2018 19:10:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Aspect species, Garuda.
+            </description>
+        </item>
+        <item>
             <title>New Magic Class Entry: Injuja</title>
             <link>http://www.chasethefox.com/world/classes/injuja.html</link>
             <guid>injuja-march-4</guid>
@@ -122,15 +131,6 @@
             <pubDate>Tue, 4 Apr 2017 3:40:00 GMT</pubDate>
             <description>
                 Added a new page to the Bestiary in the World section for the Anthro species, Peskara.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Jackawba</title>
-            <link>http://www.chasethefox.com/world/bestiary/jackawba.html</link>
-            <guid>jackawba-march-26</guid>
-            <pubDate>Sun, 26 Mar 2017 19:00:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Monster species, Jackawba.
             </description>
         </item>
 
