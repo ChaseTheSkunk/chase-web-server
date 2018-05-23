@@ -53,6 +53,11 @@ $(document).ready(function() {
             type: "link",
             href: "jay.html",
             text: "Jay"
+        },
+        {
+            type: "link",
+            href: "pyrrhe.html",
+            text: "Pyrrhe"
         }
     ]);
 
