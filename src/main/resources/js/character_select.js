@@ -56,6 +56,11 @@ $(document).ready(function() {
         },
         {
             type: "link",
+            href: "wally.html",
+            text: "Wally"
+        },
+        {
+            type: "link",
             href: "pyrrhe.html",
             text: "Pyrrhe"
         }
