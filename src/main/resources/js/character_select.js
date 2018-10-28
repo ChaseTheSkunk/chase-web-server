@@ -61,6 +61,11 @@ $(document).ready(function() {
         },
         {
             type: "link",
+            href: "champ.html",
+            text: "Champ"
+        },
+        {
+            type: "link",
             href: "pyrrhe.html",
             text: "Pyrrhe"
         }
