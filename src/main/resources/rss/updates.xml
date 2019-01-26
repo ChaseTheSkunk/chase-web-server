@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Terraboldt</title>
+            <link>http://www.chasethefox.com/world/bestiary/terraboldt.html</link>
+            <guid>terraboldt-january-26</guid>
+            <pubDate>Saturday, 26 January 2019 05:45:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Monster species, Terraboldt.
+            </description>
+        </item>
+        <item>
             <title>New Character: Champ</title>
             <link>http://www.chasethefox.com/characters/champ.html</link>
             <guid>champ-october-28</guid>
@@ -95,70 +104,6 @@
             <pubDate>Sat, 13 Jan 2018 23:45:00 GMT</pubDate>
             <description>
                 Added a new page detailing commission pricing and information.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Dmuun'dre</title>
-            <link>http://www.chasethefox.com/world/bestiary/dmuundre.html</link>
-            <guid>dmuundre-october-15</guid>
-            <pubDate>Sun, 15 Oct 2017 17:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Draconic species, Dmuun'dre.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Lily Spellmeyer</title>
-            <link>http://www.chasethefox.com/characters/lily.html</link>
-            <guid>lily-october-11</guid>
-            <pubDate>Tue, 12 Oct 2017 01:30:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Lily Spellmeyer, the little bunny girl who
-                lives next door to Chase.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Draklith</title>
-            <link>http://www.chasethefox.com/world/bestiary/draklith.html</link>
-            <guid>draklith-august-13</guid>
-            <pubDate>Sun, 13 Aug 2017 18:30:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Draconic species, Draklith.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Treant</title>
-            <link>http://www.chasethefox.com/world/bestiary/treant.html</link>
-            <guid>treant-august-6</guid>
-            <pubDate>Sun, 6 Aug 2017 20:00:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Floradon species, Treant.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Ekzon</title>
-            <link>http://www.chasethefox.com/world/bestiary/ekzon.html</link>
-            <guid>ekzon-july-30</guid>
-            <pubDate>Sun, 30 Jul 2017 18:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Feral species, Ekzon.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Kitsune</title>
-            <link>http://www.chasethefox.com/world/bestiary/kitsune.html</link>
-            <guid>kitsune-july-16</guid>
-            <pubDate>Sun, 16 Jul 2017 19:00:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Aspect species, Kitsune.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Peskara</title>
-            <link>http://www.chasethefox.com/world/bestiary/peskara.html</link>
-            <guid>peskara-april-4</guid>
-            <pubDate>Tue, 4 Apr 2017 3:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Anthro species, Peskara.
             </description>
         </item>
 
