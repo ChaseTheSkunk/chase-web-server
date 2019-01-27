@@ -68,6 +68,11 @@ $(document).ready(function() {
             type: "link",
             href: "pyrrhe.html",
             text: "Pyrrhe"
+        },
+        {
+            type: "link",
+            href: "foxblade.html",
+            text: "Foxblade"
         }
     ]);
 
