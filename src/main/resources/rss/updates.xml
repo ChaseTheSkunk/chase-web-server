@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
+            <title>New Bestiary Entry: Sikori</title>
+            <link>http://www.chasethefox.com/world/bestiary/sikori.html</link>
+            <guid>sikori-may-19</guid>
+            <pubDate>Sunday, 19 May 2019 18:40:00 GMT</pubDate>
+            <description>
+                Added a new page to the Bestiary in the World section for the Anthro species, Sikori.
+            </description>
+        </item>
+        <item>
             <title>Episode 1, Page 2 Live</title>
             <link>http://www.chasethefox.com/comic/01/latest.html</link>
             <guid>talechasers-may-17</guid>
@@ -85,34 +94,6 @@
             <description>
                 Added a new page to the Character section for Pyrrhe Drake, the greatest hero in Casarok's
                 history.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Garuda</title>
-            <link>http://www.chasethefox.com/world/bestiary/garuda.html</link>
-            <guid>garuda-march-11</guid>
-            <pubDate>Sun, 11 Mar 2018 19:10:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Aspect species, Garuda.
-            </description>
-        </item>
-        <item>
-            <title>New Magic Class Entry: Injuja</title>
-            <link>http://www.chasethefox.com/world/classes/injuja.html</link>
-            <guid>injuja-march-4</guid>
-            <pubDate>Sun, 4 Mar 2018 17:30:00 GMT</pubDate>
-            <description>
-                Added a new page to Magic Classes in the World section for the users of a dancing martial art,
-                Injujas.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Sporacyst</title>
-            <link>http://www.chasethefox.com/world/bestiary/sporacyst.html</link>
-            <guid>sporacyst-february-18</guid>
-            <pubDate>SUn, 18 Feb 2018 16:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Floradon species, Sporacyst.
             </description>
         </item>
 
