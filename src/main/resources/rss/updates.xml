@@ -6,6 +6,15 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
+            <title>Episode 1, Page 3 Live</title>
+            <link>http://www.chasethefox.com/comic/01/latest.html</link>
+            <guid>talechasers-may-20</guid>
+            <pubDate>Tuesday, 21 May 2019 00:20:00 GMT</pubDate>
+            <description>
+                Added page 3 for episode 1 of Tale Chasers.
+            </description>
+        </item>
+        <item>
             <title>New Bestiary Entry: Sikori</title>
             <link>http://www.chasethefox.com/world/bestiary/sikori.html</link>
             <guid>sikori-may-19</guid>
@@ -16,7 +25,7 @@
         </item>
         <item>
             <title>Episode 1, Page 2 Live</title>
-            <link>http://www.chasethefox.com/comic/01/latest.html</link>
+            <link>http://www.chasethefox.com/comic/01/02.html</link>
             <guid>talechasers-may-17</guid>
             <pubDate>Saturday, 18 May 2019 03:15:00 GMT</pubDate>
             <description>
@@ -84,16 +93,6 @@
             <pubDate>Thursday, 26 July 2018 01:20:00 GMT</pubDate>
             <description>
                 Added a new page to the Character section for Wally Cognisarian, the scheming weasel.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Pyrrhe Drake</title>
-            <link>http://www.chasethefox.com/characters/pyrrhe.html</link>
-            <guid>pyrrhe-may-22</guid>
-            <pubDate>Wed, 23 May 2018 00:45:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Pyrrhe Drake, the greatest hero in Casarok's
-                history.
             </description>
         </item>
 
