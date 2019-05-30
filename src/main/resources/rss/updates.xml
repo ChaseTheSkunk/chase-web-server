@@ -6,8 +6,17 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
-            <title>Episode 1, Page 4 Live</title>
+            <title>Episode 1, Page 5 Live</title>
             <link>http://www.chasethefox.com/comic/01/latest.html</link>
+            <guid>talechasers-may-29</guid>
+            <pubDate>Thursday, 30 May 2019 01:55:00 GMT</pubDate>
+            <description>
+                Added page 5 for episode 1 of Tale Chasers.
+            </description>
+        </item>
+        <item>
+            <title>Episode 1, Page 4 Live</title>
+            <link>http://www.chasethefox.com/comic/01/04.html</link>
             <guid>talechasers-may-23</guid>
             <pubDate>Friday, 24 May 2019 03:30:00 GMT</pubDate>
             <description>
@@ -84,24 +93,6 @@
             <pubDate>Saturday, 26 January 2019 17:45:00 GMT</pubDate>
             <description>
                 Added a new page to the Bestiary in the World section for the Monster species, Terraboldt.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Champ</title>
-            <link>http://www.chasethefox.com/characters/champ.html</link>
-            <guid>champ-october-28</guid>
-            <pubDate>Sunday, 28 October 2018 06:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Champ, the time-lost husky.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Wally Cognisarian</title>
-            <link>http://www.chasethefox.com/characters/wally.html</link>
-            <guid>wally-july-25</guid>
-            <pubDate>Thursday, 26 July 2018 01:20:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Wally Cognisarian, the scheming weasel.
             </description>
         </item>
 
