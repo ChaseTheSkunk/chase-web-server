@@ -73,6 +73,11 @@ $(document).ready(function() {
             type: "link",
             href: "foxblade.html",
             text: "Foxblade"
+        },
+        {
+            type: "link",
+            href: "azalea.html",
+            text: "Azalea"
         }
     ]);
 
