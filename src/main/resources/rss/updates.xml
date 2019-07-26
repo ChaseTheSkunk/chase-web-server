@@ -6,8 +6,17 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
-            <title>Episode 1, Page 10 Live</title>
+            <title>Episode 1, Page 11 Live</title>
             <link>http://www.chasethefox.com/comic/01/latest.html</link>
+            <guid>talechasers-july-26</guid>
+            <pubDate>Friday, 26 July 2019 02:45:00 GMT</pubDate>
+            <description>
+                Added page 11 for episode 1 of Tale Chasers.
+            </description>
+        </item>
+        <item>
+            <title>Episode 1, Page 10 Live</title>
+            <link>http://www.chasethefox.com/comic/01/10.html</link>
             <guid>talechasers-july-20</guid>
             <pubDate>Saturday, 20 July 2019 03:00:00 GMT</pubDate>
             <description>
@@ -111,33 +120,6 @@
             <pubDate>Sunday, 12 May 2019 22:00:00 GMT</pubDate>
             <description>
                 Introducing "Tale Chasers", a new comic featuring Chase and friends!
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Fleel</title>
-            <link>http://www.chasethefox.com/world/bestiary/fleel.html</link>
-            <guid>fleel-february-17</guid>
-            <pubDate>Sunday, 17 February 2019 19:40:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Feral species, Fleel.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Foxblade</title>
-            <link>http://www.chasethefox.com/characters/foxblade.html</link>
-            <guid>foxblade-january-27</guid>
-            <pubDate>Sunday, 27 January 2019 19:15:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Foxblade, the kitsune samurai.
-            </description>
-        </item>
-        <item>
-            <title>New Bestiary Entry: Ratatosk</title>
-            <link>http://www.chasethefox.com/world/bestiary/ratatosk.html</link>
-            <guid>ratatosk-january-26</guid>
-            <pubDate>Saturday, 26 January 2019 18:45:00 GMT</pubDate>
-            <description>
-                Added a new page to the Bestiary in the World section for the Monster species, Ratatosk.
             </description>
         </item>
 
