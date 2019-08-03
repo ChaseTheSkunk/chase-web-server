@@ -61,6 +61,11 @@ $(document).ready(function() {
         },
         {
             type: "link",
+            href: "tiny.html",
+            text: "Tiny"
+        },
+        {
+            type: "link",
             href: "champ.html",
             text: "Champ"
         },
