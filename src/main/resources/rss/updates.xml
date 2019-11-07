@@ -6,8 +6,17 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
-            <title>Episode 1, Page 19 Live</title>
+            <title>Episode 1, Page 20 Live</title>
             <link>https://www.chasethefox.com/comic/01/latest.html</link>
+            <guid>talechasers-november-7</guid>
+            <pubDate>Thursday, 7 November 2019 03:35:00 GMT</pubDate>
+            <description>
+                Added page 20 for episode 1 of Tale Chasers.
+            </description>
+        </item>
+        <item>
+            <title>Episode 1, Page 19 Live</title>
+            <link>https://www.chasethefox.com/comic/01/19.html</link>
             <guid>talechasers-november-1</guid>
             <pubDate>Saturday, 2 November 2019 02:35:00 GMT</pubDate>
             <description>
@@ -66,24 +75,6 @@
             <pubDate>Friday, 16 August 2019 02:00:00 GMT</pubDate>
             <description>
                 Added page 13 for episode 1 of Tale Chasers.
-            </description>
-        </item>
-        <item>
-            <title>New Character: Tiny</title>
-            <link>http://www.chasethefox.com/characters/tiny.html</link>
-            <guid>tiny-august-3</guid>
-            <pubDate>Satuday, 3 August 2019 17:45:00 GMT</pubDate>
-            <description>
-                Added a new page to the Character section for Tiny, the gorilla bodyguard from Tale Chasers.
-            </description>
-        </item>
-        <item>
-            <title>Episode 1, Page 12 Live</title>
-            <link>http://www.chasethefox.com/comic/01/12.html</link>
-            <guid>talechasers-august-3</guid>
-            <pubDate>Saturday, 3 August 2019 03:25:00 GMT</pubDate>
-            <description>
-                Added page 12 for episode 1 of Tale Chasers.
             </description>
         </item>
 
