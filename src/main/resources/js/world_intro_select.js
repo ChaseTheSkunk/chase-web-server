@@ -33,6 +33,11 @@ $(document).ready(function() {
             type: "link",
             href: "races.html",
             text: "Races"
+        },
+        {
+            type: "link",
+            href: "spellbook",
+            text: "Spellbook"
         }
     ]);
 
