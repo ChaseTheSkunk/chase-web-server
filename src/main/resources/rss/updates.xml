@@ -6,8 +6,18 @@
         <description>Up-to-date additions and changes to Chase the Fox's website!</description>
 
         <item>
-            <title>Episode 1, Page 21 Live</title>
+            <title>Episode 1, Page 22 Live</title>
             <link>https://www.chasethefox.com/comic/01/latest.html</link>
+            <guid>talechasers-december-15</guid>
+            <pubDate>Sunday, 15 December 2019 18:20:00 GMT</pubDate>
+            <description>
+                Added page 22 for episode 1 of Tale Chasers.
+            </description>
+        </item>
+
+        <item>
+            <title>Episode 1, Page 21 Live</title>
+            <link>https://www.chasethefox.com/comic/01/21.html</link>
             <guid>talechasers-november-21</guid>
             <pubDate>Friday, 22 November 2019 04:15:00 GMT</pubDate>
             <description>
@@ -85,15 +95,6 @@
             <pubDate>Saturday, 21 September 2019 03:10:00 GMT</pubDate>
             <description>
                 Added page 14 for episode 1 of Tale Chasers.
-            </description>
-        </item>
-        <item>
-            <title>Episode 1, Page 13 Live</title>
-            <link>http://www.chasethefox.com/comic/01/13.html</link>
-            <guid>talechasers-august-16</guid>
-            <pubDate>Friday, 16 August 2019 02:00:00 GMT</pubDate>
-            <description>
-                Added page 13 for episode 1 of Tale Chasers.
             </description>
         </item>
 
