@@ -83,6 +83,11 @@ $(document).ready(function() {
             type: "link",
             href: "azalea.html",
             text: "Azalea"
+        },
+        {
+            type: "link",
+            href: "blackfox.html",
+            text: "Blackfox"
         }
     ]);
 
